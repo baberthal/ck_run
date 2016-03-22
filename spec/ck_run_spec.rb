@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe CkRun do
+RSpec.describe CkRun do
   it 'has a version number' do
     expect(CkRun::VERSION).to_not be nil
   end
