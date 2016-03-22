@@ -1,0 +1,17 @@
+Documentation:
+  Enabled: false
+
+Style/SpecialGlobalVars:
+  EnforcedStyle: use_perl_names
+
+Style/ParallelAssignment:
+  Enabled: false
+
+Style/OptionHash:
+  Enabled: true
+
+RSpec/VerifiedDoubles:
+  Enabled: true
+
+RSpec/NotToNot:
+  EnforcedStyle: 'to_not'
